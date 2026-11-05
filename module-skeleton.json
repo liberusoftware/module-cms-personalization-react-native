@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-personalization-react-native",
+  "capabilityKey": "liberusoftware/module-cms-personalization",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-personalization-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/personalization.md",
+  "presentationPlan": "projects/cms/react-native/personalization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
